@@ -43,4 +43,4 @@ You may choose to do more than one per day, or none at all - just don't fall too
 ## Submission Guidelines
 
 - Your instructors will be checking your progress from time-to-time. As you solve the challenges, add and commit your work, and `git push origin main`. This pushes the updates to your fork.
-- At the end of Week 11, we will have you make one pull request on the main repo in the org using the [PR Guidelines](https://github.com/SEB-6-Bahrain/pr_template).
+- At the end of Week 11, we will have you make one pull request on the main repo in the org using the [PR Guidelines](https://github.com/SEB-Core/pr_template).
