@@ -1,0 +1,11 @@
+{
+  "name": "daily_js_challenges",
+  "version": "2.0.0",
+  "author": "Michael Lackey",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
