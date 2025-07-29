@@ -14,9 +14,9 @@ You may choose to do more than one per day, or none at all - just don't fall too
 
 ## Getting Started
 
-- `Fork` and `Clone` this repository
-- `npm install` (You only need to run this once)
-- Each day, open the repo in VS Code and work in the `challenges.js` file
+- **Fork** and **clone** this repository
+- Run `npm install` to install the testing framework (You only need to run this once)
+- Each day, open the repo in VS Code with `code .` and work in the `challenges.js` file
 
 
 ## Instructions
